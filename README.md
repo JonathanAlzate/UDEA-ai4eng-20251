@@ -1,1 +1,8 @@
 # UDEA-ai4eng-20251
+
+INTEGRANTE:
+
+NOMNBRE: JONATHAN ARLEY ALZATE CASTAÑO
+DOCUMENTO: 1.036.957.018
+PROGRAMA: Ingeniería de sistemas
+CORREO: jarley.alzate@udea.edu
